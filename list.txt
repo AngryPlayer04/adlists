@@ -81,3 +81,13 @@ sdkconfig.ad.intl.xiaomi.com
 g.msn.com
 firebase-settings.crashlytics.com
 alb.reddit.com
+propeller-tracking.com
+dnhfi5nn2dt67.cloudfront.net
+fourier.taobao.com
+dmtracking2.alibaba.com
+tzegilo.com
+thrtle.com
+eus.rubiconproject.com
+id5-sync.com
+pixel.rubiconproject.com
+adxbid.inf
