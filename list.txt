@@ -15,6 +15,7 @@ uop.umeng.com
 alog.umeng.com
 alog.umengcloud.com
 api.branch.io
+api2.branch.io
 cp.pushwoosh.com
 ws.tapjoyads.com
 connect.tapjoy.com
@@ -60,4 +61,23 @@ beacons.gcp.gvt2.com
 beacons5.gvt3.com
 beacons3.gvt2.com
 beacons4.gvt2.com
-
+api.taboola.com
+p.typekit.net is
+platform-api.sharethis.com
+google-analytics.com
+pagead2.googlesyndication.com
+c.clarity.ms
+dit.whatsapp.net
+hhkld.com
+eus.rubiconproject.com
+bttrack.com
+creativecdn.com
+id5-sync.com
+d.applvn.com
+mon.isnssdk.com
+adash.man.aliyuncs.com
+adv.sec.intl.miui.com
+sdkconfig.ad.intl.xiaomi.com
+g.msn.com
+firebase-settings.crashlytics.com
+alb.reddit.com
