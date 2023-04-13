@@ -52,3 +52,12 @@ utraffic.engine.adglare.net
 0077777700140002.myhomescreen.tv
 cert-test.sandbox.google.com
 gstatic.com
+www.baidu.com
+beacons2.gvt2.com
+beacons.gvt2.com
+beacons5.gvt2.com
+beacons.gcp.gvt2.com
+beacons5.gvt3.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+
