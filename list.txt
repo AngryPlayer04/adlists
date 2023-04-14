@@ -62,7 +62,7 @@ beacons5.gvt3.com
 beacons3.gvt2.com
 beacons4.gvt2.com
 api.taboola.com
-p.typekit.net is
+p.typekit.net
 platform-api.sharethis.com
 google-analytics.com
 pagead2.googlesyndication.com
