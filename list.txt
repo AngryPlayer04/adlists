@@ -67,7 +67,6 @@ platform-api.sharethis.com
 google-analytics.com
 pagead2.googlesyndication.com
 c.clarity.ms
-dit.whatsapp.net
 hhkld.com
 eus.rubiconproject.com
 bttrack.com
