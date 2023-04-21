@@ -116,3 +116,5 @@ gml-grp.com
 inapps.appsflyer.com
 impression.appsflyer.com
 authbe.sec.intl.miui.com
+amazon-adsystem.com
+adnxs-simple.com
