@@ -119,3 +119,4 @@ authbe.sec.intl.miui.com
 amazon-adsystem.com
 adnxs-simple.com
 admedo.com
+3lift.com
