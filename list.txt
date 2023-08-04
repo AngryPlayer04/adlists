@@ -54,12 +54,6 @@ utraffic.engine.adglare.net
 cert-test.sandbox.google.com
 gstatic.com
 www.baidu.com
-beacons2.gvt2.com
-beacons.gvt2.com
-beacons5.gvt2.com
-beacons5.gvt3.com
-beacons3.gvt2.com
-beacons4.gvt2.com
 api.taboola.com
 p.typekit.net
 platform-api.sharethis.com
