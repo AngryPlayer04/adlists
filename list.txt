@@ -3,8 +3,7 @@ ssl.google-analytics.com
 adservice.google.com
 ade.googlesyndication.com
 id.google.de
-federatedml-pa.googleapis.com
-app-measurement.com
+federatedml-pa.googleapis.com
 events.appsflyer.com
 stats.appsflyer.com
 t.appsflyer.com
