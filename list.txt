@@ -3,7 +3,8 @@ ssl.google-analytics.com
 adservice.google.com
 ade.googlesyndication.com
 id.google.de
-federatedml-pa.googleapis.com
+federatedml-pa.googleapis.com
+
 events.appsflyer.com
 stats.appsflyer.com
 t.appsflyer.com
@@ -119,3 +120,4 @@ sb.scorecardresearch.com
 amazon-adsystem.com
 sender.clevernt.com
 cleveradvertising.com
+teads.com
