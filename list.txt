@@ -124,3 +124,4 @@ teads.com
 analytics.google.com
 sessions.bugsnag.com
 api.bugsnag.com
+widgets.pinterest.com
