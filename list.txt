@@ -126,3 +126,4 @@ sessions.bugsnag.com
 api.bugsnag.com
 widgets.pinterest.com
 appmetrica.yandex.ru
+advertising.yandex.ru
