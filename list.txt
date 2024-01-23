@@ -122,3 +122,4 @@ sender.clevernt.com
 cleveradvertising.com
 teads.com
 analytics.google.com
+sessions.bugsnag.com
