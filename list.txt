@@ -123,3 +123,4 @@ cleveradvertising.com
 teads.com
 analytics.google.com
 sessions.bugsnag.com
+api.bugsnag.com
