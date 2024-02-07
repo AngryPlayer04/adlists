@@ -128,3 +128,5 @@ widgets.pinterest.com
 appmetrica.yandex.ru
 advertising.yandex.ru
 app.bugsnag.com
+advice-ads.s3.amazonaws.com
+advertising-api-eu.amazon.com
