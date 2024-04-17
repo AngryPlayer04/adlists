@@ -20,8 +20,7 @@ cp.pushwoosh.com
 ws.tapjoyads.com
 connect.tapjoy.com
 ads.api.vungle.com
-adlog.flurry.com
-data.flurry.com
+adlog.flurry.com
 wd.adcolony.com
 events3.adcolony.com
 events3alt.adcolony.com
