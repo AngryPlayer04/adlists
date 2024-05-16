@@ -1,4 +1,4 @@
-# Google Services:
+! Google Services:
 
     googleadservices.com
     ssl.google-analytics.com
@@ -8,7 +8,7 @@
     federatedml-pa.googleapis.com
     pagead2.googlesyndication.com
 
-# Apps and Services:
+! Apps and Services:
 
     events.appsflyer.com
     stats.appsflyer.com
@@ -65,7 +65,7 @@
     advertising.yandex.ru
     app.bugsnag.com
 
-# Ad Networks:
+! Ad Networks:
 
     wd.adcolony.com
     events3.adcolony.com
@@ -108,7 +108,7 @@
     sdktm.w.inmobi.com
     ads.mopub.com
 
-# Miscellaneous:
+! Miscellaneous:
 
     gstatic.com
     www.baidu.com
