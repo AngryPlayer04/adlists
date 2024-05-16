@@ -20,7 +20,8 @@ cp.pushwoosh.com
 ws.tapjoyads.com
 connect.tapjoy.com
 ads.api.vungle.com
-adlog.flurry.com
+adlog.flurry.com
+
 wd.adcolony.com
 events3.adcolony.com
 events3alt.adcolony.com
@@ -112,6 +113,7 @@ amazon-adsystem.com
 adnxs-simple.com
 admedo.com
 3lift.com
+static.a-ads.com
 xlivrdr.com
 serving-sys.com
 rolleradv.com
