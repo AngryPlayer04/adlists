@@ -131,3 +131,5 @@
     api.bugsnag.com
     advice-ads.s3.amazonaws.com
     advertising-api-eu.amazon.com
+    cdn.themoneytizer.fr
+    
