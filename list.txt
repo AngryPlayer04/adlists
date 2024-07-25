@@ -10,8 +10,9 @@
 
 ! Apps and Services:
     
-    unityads.unity3d.com
+    unity3d.com
     applvn.com
+    
     events.appsflyer.com
     stats.appsflyer.com
     t.appsflyer.com
