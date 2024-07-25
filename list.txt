@@ -9,7 +9,9 @@
     pagead2.googlesyndication.com
 
 ! Apps and Services:
-
+    
+    unityads.unity3d.com
+    applvn.com
     events.appsflyer.com
     stats.appsflyer.com
     t.appsflyer.com
