@@ -12,7 +12,7 @@
     
     unity3d.com
     applvn.com
-    
+    rtdk.io
     events.appsflyer.com
     stats.appsflyer.com
     t.appsflyer.com
